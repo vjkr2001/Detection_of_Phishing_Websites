@@ -26,4 +26,4 @@ This is an End-to-End Machine Learning Project which focuses on phishing website
   - AdaBoost
 - You can obtain the confusion matrix, and performance measures: accuracy, precision, recall
 - Finally, I visualized the performance measures for all models.
-  - Naive Bayes is the best for my case.
+  - Naive Bayes algorithm is the best for this case because it is more accurate and got good performance compared to other algorithms.
