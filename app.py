@@ -85,7 +85,7 @@ with st.expander("PROJECT DETAILS"):
 
 with st.expander('LETS CHECK WITH SOME OF THE PHISHING URLs:'):
     st.write('_https://ww3.4movierulz.to/_')
-    st.write('_https://form.jotform.com/230093869703865_')
+    st.write('_https://www.ibomma.com_')
     st.write('_https://www.cryptocurrencystate.net/_')
     st.caption('REMEMBER, PHISHING WEB PAGES HAVE SHORT LIFECYCLE! SO, THE EXAMPLES HERE MENTIONED ARE GIVEN IN DATASET AND EXAMPLES SHOULD BE UPDATED AS WE UPDATE DATASET!')
 
