@@ -19,7 +19,7 @@ with st.expander("PROJECT DETAILS"):
              'We created our own data set and defined features, some from the literature and some based on manual analysis. '
              'we used requests library to collect data, BeautifulSoup module to parse and extract features. ')
     st.write('The source code and data sets are available in the below Github link:')
-    st.write('_https://github.com/GejjalaLakshmipathi/Phishing_Website_Detection_')
+    st.write('_https://github.com/vjkr2001/Detection_of_Phishing_Websites_')
 
     st.subheader('Data set')
     st.write('We have used _"phishtank.org"_ & _"tranco-list.eu"_ as data sources.')
